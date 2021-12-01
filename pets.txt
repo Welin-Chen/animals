@@ -1,3 +1,5 @@
 cat
 dog
 turtle
+Monica
+Blue
